@@ -3,6 +3,7 @@ I'm a passionate full-stack developer with deep expertise in React, Next.js, Nod
 Over my 8 years of development experience, I’ve worked with startups, enterprises, and SaaS businesses, helping them build modern web applications that drive results.
 
 💯 Here’s what I bring to the table:💯
+
 ✅ Front-end Excellence: React.js, Next.js, TypeScript, Tailwind CSS, Redux, React Query
 ✅ Back-end Development: Node.js, Express.js, NestJS, RESTful & GraphQL APIs
 ✅ Cloud & DevOps: AWS (Lambda, S3, EC2, RDS, DynamoDB, API Gateway, Amplify), Docker, CI/CD
