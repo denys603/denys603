@@ -1,4 +1,5 @@
 Hi, I am Denys ⭐⭐⭐⭐⭐
+
 I'm a passionate full-stack developer with deep expertise in React, Next.js, Node.js, and AWS. I specialize in crafting scalable, high-performance web applications that are secure, efficient, and user-friendly.
 Over my 8 years of development experience, I’ve worked with startups, enterprises, and SaaS businesses, helping them build modern web applications that drive results.
 
