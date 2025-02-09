@@ -5,9 +5,13 @@ Over my 8 years of development experience, I’ve worked with startups, enterpri
 💯 Here’s what I bring to the table:💯
 
 ✅ Front-end Excellence: React.js, Next.js, TypeScript, Tailwind CSS, Redux, React Query
+
 ✅ Back-end Development: Node.js, Express.js, NestJS, RESTful & GraphQL APIs
+
 ✅ Cloud & DevOps: AWS (Lambda, S3, EC2, RDS, DynamoDB, API Gateway, Amplify), Docker, CI/CD
+
 ✅ Database Management: PostgreSQL, MySQL, MongoDB, Firebase
+
 ✅ Performance & Security: Optimized, scalable, and secure solutions
 
 If you're looking for a dedicated, skilled developer to help bring your vision to life, let’s connect!
